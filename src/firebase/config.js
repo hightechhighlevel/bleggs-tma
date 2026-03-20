@@ -7,13 +7,13 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC1AX214CyvxZm1yNAuG1ltUARxlE6JrDI",
+  apiKey: "",
   authDomain: "bleggs.firebaseapp.com",
   projectId: "bleggs",
   storageBucket: "bleggs.appspot.com",
-  messagingSenderId: "982592525378",
-  appId: "1:982592525378:web:213c2d8934d648a6b089db",
-  measurementId: "G-BW9WK4JDCP"
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 //* Initialize Firebase
